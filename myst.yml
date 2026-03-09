@@ -1,15 +1,10 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+
 project:
   id: 23155ab4-a6ef-49ad-a895-b5d3694200d9
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: Conclusion Matrix
   github: https://github.com/SeinalArifin149/E-Catalogue-Jamu-Madura
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
