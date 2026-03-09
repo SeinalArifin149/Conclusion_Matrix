@@ -3,8 +3,10 @@ version: 1
 project:
   id: 23155ab4-a6ef-49ad-a895-b5d3694200d9
   title: Conclusion Matrix
-  github: https://github.com/SeinalArifin149/E-Catalogue-Jamu-Madura
+  github: https://github.com/SeinalArifin149/Conclusion_Matrix
   toc:
     - file: index.md
 site:
   template: book-theme
+  options:
+    base_url: /Conclusion_Matrix
